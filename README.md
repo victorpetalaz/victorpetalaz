@@ -79,13 +79,23 @@ I am a student and developer focused on building modern web applications. Curren
 <p>
     <div align="center">
       <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=victorpetalaz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+        height="165"
+        src="https://github-readme-stats.vercel.app/api?username=victorpetalaz&show_icons=true&theme=transparent&include_all_commits=true&locale=en"
       />
-      &nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;
       <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victorpetalaz&layout=compact&custom_title=Technologies&langs_count=4&theme=tokyonight"
+        height="165"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpetalaz&layout=compact&custom_title=Technologies&langs_count=4&theme=transparent"
+      />
+      <br/><br/>
+      <img
+        height="165"
+        src="https://github-readme-stats.vercel.app/api?username=victorpetalaz&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs&custom_title=Review%20%26%20PR%20Stats"
+      />
+      &nbsp;&nbsp;
+      <img
+        height="165"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=victorpetalaz&theme=transparent&hide_border=true"
       />
     </div>
 </p>
