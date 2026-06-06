@@ -1,38 +1,38 @@
-# Olá, eu sou o Victor Petalaz 💻
+# Hi, I'm Victor Petalaz 💻
 
-**`Desenvolvedor Web | Foco em Frontend Reativo & Python`**
+**`Web Developer | Focus on Tech leading & Python`**
 
-Sou estudante e desenvolvedor com foco na construção de aplicações web modernas. Atualmente, venho aprofundando meus conhecimentos na arquitetura de frontends reativos e no desenvolvimento full-stack. Além de estruturar interfaces responsivas e fluidas, também construo lógicas e sistemas utilizando Python. Quando não estou codando, provavelmente estou dormindo ou jogando algo com meus amigos.
+I am a student and developer focused on building modern web applications. Currently, I am deepening my knowledge in reactive frontend architecture and full-stack development. Besides structuring responsive and fluid interfaces, I also build logic and systems using Python. When Im not coding, Im probably sleeping or playing games w my friends.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/victor-godoi-a51857321/">
         <img 
             alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+            title="Connect with me on LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
      &nbsp;&nbsp;
     <a href="https://www.instagram.com/vpetalaz"> 
         <img 
             alt="Instagram"
-            title="Siga-me no Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-Seguir-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
+            title="Follow me on Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
         />
     </a>
 </p>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-*   **Pokedex Frontend:** Construção de uma interface responsiva estruturada para integração manual via JavaScript.
-*   **Gestão de Loja de Vinil:** Sistema desenvolvido em Python utilizando estruturas de repetição e manipulação de arquivos JSON para busca de discos e controle de estoque.
-*   **Formulários Responsivos:** Telas de login e registro aplicando conceitos de responsividade com CSS media queries para adaptação em smartphones, tablets e desktops.
+*   **Pokedex Frontend:** Built a responsive interface structured for manual integration via JavaScript.
+*   **Vinyl Store Management:** System developed in Python using loop structures and JSON file manipulation for searching records and inventory control.
+*   **Responsive Forms:** Login and registration screens applying responsiveness concepts with CSS media queries to adapt across smartphones, tablets, and desktops.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tech Stack
 
 <p align="left">
     <img 
@@ -74,18 +74,18 @@ Sou estudante e desenvolvedor com foco na construção de aplicações web moder
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 GitHub Stats
 
 <p>
     <div align="center">
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=victorpetalaz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=victorpetalaz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
       />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victorpetalaz&layout=compact&custom_title=Tecnologias&langs_count=4&theme=tokyonight"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victorpetalaz&layout=compact&custom_title=Technologies&langs_count=4&theme=tokyonight"
       />
     </div>
 </p>
