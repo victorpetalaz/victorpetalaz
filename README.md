@@ -94,4 +94,7 @@ I am a student and developer focused on building modern web applications. Curren
       &nbsp;&nbsp;
       <img
         height="165"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=victorpetalaz&theme=tokyonight&hide_border=true
+        src="https://github-readme-streak-stats.herokuapp.com/?user=victorpetalaz&theme=tokyonight&hide_border=true"
+      />
+    </div>
+</p>
