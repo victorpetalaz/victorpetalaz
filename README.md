@@ -80,22 +80,22 @@ I am a student and developer focused on building modern web applications. Curren
     <div align="center">
       <img
         height="165"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=victorpetalaz&show_icons=true&theme=transparent&include_all_commits=true&locale=en"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=victorpetalaz&show_icons=true&theme=github_dark&include_all_commits=true&locale=en"
       />
       &nbsp;&nbsp;
       <img
         height="165"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victorpetalaz&layout=compact&custom_title=Technologies&langs_count=4&theme=transparent"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victorpetalaz&layout=compact&custom_title=Technologies&langs_count=4&theme=github_dark"
       />
       <br/><br/>
       <img
         height="165"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=victorpetalaz&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs&custom_title=Review%20%26%20PR%20Stats"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=victorpetalaz&show_icons=true&theme=github_dark&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs&custom_title=Review%20%26%20PR%20Stats"
       />
       &nbsp;&nbsp;
       <img
         height="165"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=victorpetalaz&theme=transparent&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=victorpetalaz&theme=github_dark&hide_border=true"
       />
     </div>
 </p>
