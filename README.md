@@ -75,31 +75,26 @@ I am a student and developer focused on building modern web applications. Curren
 ---
 
 ### 📊 GitHub Stats
-
 <p>
     <div align="center">
-      <!-- Card 1: Status Geral -->
       <img
         height="165"
-        src="https://github-readme-stats.vercel.app/api?username=victorpetalaz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&locale=en&v=1"
+        src="https://github-readme-stats.vercel.app/api?username=victorpetalaz&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&locale=en&v=2"
       />
       &nbsp;&nbsp;
-      <!-- Card 2: Linguagens Mais Usadas -->
       <img
         height="165"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpetalaz&layout=compact&custom_title=Technologies&langs_count=4&theme=transparent&hide_border=true&v=1"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpetalaz&layout=compact&custom_title=Technologies&langs_count=4&theme=dark&bg_color=0d1117&hide_border=true&v=2"
       />
       <br/><br/>
-      <!-- Card 3: Adições (Reviews e PRs) -->
       <img
         height="165"
-        src="https://github-readme-stats.vercel.app/api?username=victorpetalaz&show_icons=true&theme=transparent&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs&custom_title=Review%20%26%20PR%20Stats&v=1"
+        src="https://github-readme-stats.vercel.app/api?username=victorpetalaz&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs&custom_title=Review%20%26%20PR%20Stats&v=2"
       />
       &nbsp;&nbsp;
-      <!-- Card 4: GitHub Streak -->
       <img
         height="165"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=victorpetalaz&theme=transparent&hide_border=true&v=1"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=victorpetalaz&theme=dark&background=0d1117&hide_border=true&v=2"
       />
     </div>
 </p>
