@@ -79,22 +79,22 @@ I am a student and developer focused on building modern web applications. Curren
     <div align="center">
       <img
         height="165"
-        src="https://github-readme-stats-umber-five-29.vercel.app/api?username=victorpetalaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=en"
+        src="https://github-readme-stats-umber-five-29.vercel.app/api?username=victorpetalaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=en&v=2"
       />
       &nbsp;&nbsp;
       <img
         height="165"
-        src="https://github-readme-stats-umber-five-29.vercel.app/api/top-langs/?username=victorpetalaz&layout=compact&custom_title=Technologies&langs_count=4&theme=tokyonight&hide_border=true"
+        src="https://github-readme-stats-umber-five-29.vercel.app/api/top-langs/?username=victorpetalaz&layout=compact&custom_title=Technologies&langs_count=4&theme=tokyonight&hide_border=true&v=2"
       />
       <br/><br/>
       <img
         height="165"
-        src="https://github-readme-stats-umber-five-29.vercel.app/api?username=victorpetalaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs&custom_title=Review%20%26%20PR%20Stats"
+        src="https://github-readme-stats-umber-five-29.vercel.app/api?username=victorpetalaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs&custom_title=Review%20%26%20PR%20Stats&v=2"
       />
       &nbsp;&nbsp;
       <img
         height="165"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=victorpetalaz&theme=tokyonight&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=victorpetalaz&theme=tokyonight&hide_border=true&v=2"
       />
     </div>
 </p>
