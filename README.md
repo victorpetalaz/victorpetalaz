@@ -79,7 +79,7 @@ I am a student and developer focused on building modern web applications. Curren
     <div align="center">
       <img
         height="165"
-        src="https://github-readme-stats-umber-five-29.vercel.app/api?username=victorpetalaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=en"
+        src="https://github-readme-stats-umber-five-29.vercel.app/api?username=victorpetalaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=en"
       />
       &nbsp;&nbsp;
       <img
@@ -89,7 +89,7 @@ I am a student and developer focused on building modern web applications. Curren
       <br/><br/>
       <img
         height="165"
-        src="https://github-readme-stats-umber-five-29.vercel.app/api?username=victorpetalaz&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs&custom_title=Review%20%26%20PR%20Stats"
+        src="https://github-readme-stats-umber-five-29.vercel.app/api?username=victorpetalaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs&custom_title=Review%20%26%20PR%20Stats"
       />
       &nbsp;&nbsp;
       <img
